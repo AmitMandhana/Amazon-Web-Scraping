@@ -11,3 +11,12 @@ Items to scrape
 • Rating
 • Number of reviews
 
+With the Product URL received in the above case, hit each URL, and add below items:
+• Description
+• ASIN
+• Product Description
+• Manufacturer
+Need to hit around 200 product URL’s and fetch various information.
+The entire data needs to be exported in a csv format
+
+
